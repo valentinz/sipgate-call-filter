@@ -6,3 +6,4 @@ spring:
 phone:
   blockNumberRegex:
   - 49152194496.*
+  - 4915739806530
