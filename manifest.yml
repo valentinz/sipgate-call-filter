@@ -1,0 +1,5 @@
+applications:
+- name: call-filter
+  memory: 1G
+  instances: 2
+  path: target/call-filter-0.0.1-SNAPSHOT.jar
